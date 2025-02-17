@@ -18,7 +18,6 @@ The key steps in the system are:
 1. *Arduino* sends control signals to the *L293D* to operate the motors.
 2. *L293D Motor Driver* amplifies the weak signals from Arduino and sends them to the motors.
 3. The *battery* powers the motors, while the *Arduino* provides the control signals.
-
 ---
 
 ### *Code and Movement Control*
@@ -46,6 +45,8 @@ The *L293D* ensures the motors receive the correct voltage and current, enabling
 ### *Testing and Validation*
 
 Using *Tinkercad, I was able to **simulate and test* the functionality of the system virtually. This allowed me to verify that the code and connections work as expected before setting up the physical components.
+# Simulation Link
+[Tinhercad](https://www.tinkercad.com/things/1Ehu5nIUnLR-cool-fyyran-kieran) 
 
 
 
