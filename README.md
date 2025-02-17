@@ -4,7 +4,7 @@ In my *robot control project*, I designed a system using the following component
 
 - *Arduino*: The main controller that executes the program and controls the motors.
 - *4 DC motors*: These are the motors that drive the robot's movement.
-- *L293D Motor Driver*: This component amplifies the signals from the Arduino to the motors, allowing them to move in various directions.
+- *2L293D Motor Driver*: This component amplifies the signals from the Arduino to the motors, allowing them to move in various directions.
 - *Battery*: Provides the necessary power to the motors, while the Arduino gets its power either from the computer (via USB) or an external source.
 
 ---
